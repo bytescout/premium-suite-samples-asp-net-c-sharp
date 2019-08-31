@@ -1,0 +1,37 @@
+## Index of source code examples:
+
+\Batch Process PDF to Text with PDF Extractor SDK
+\Batch read barcodes to csv with barcode reader sdk
+\Convert pdf to html with complex layout with pdf to html sdk
+\Convert pdf to html with images with pdf to html sdk
+\Convert pdf to html with simple layout with pdf to html sdk
+\Convert pdf to multipage tiff with pdf renderer sdk
+\Convert pdf to png with pdf renderer sdk
+\Create PDF with PDF SDK
+\Decode page by page from pdf or tiff with barcode reader sdk
+\Extract Attachments from PDF with PDF Extractor SDK
+\Extract Images from PDF with PDF Extractor SDK
+\Extract Text By Columns from PDF with PDF Extractor SDK
+\Extract Text From Page Area in PDF with PDF Extractor SDK
+\Extract Text from PDF with PDF Extractor SDK
+\Find Text in PDF with PDF Extractor SDK
+\Find Text With Hyphens in PDF with PDF Extractor SDK
+\Generate Barcode in ASP with BarCode SDK.NET MVC
+\Generate Barcode In C# Backend with BarCode SDK
+\Generate barcode in C# Local Reports (RDLC) with BarCode SDK
+\Generate Barcode with WebImage control in C# with BarCode SDK
+\Generate SSRS Reports VS 2008 with BarCode SDK
+\Get PDF Document Information with PDF Extractor SDK
+\Make PDF Unsearchable with PDF Extractor SDK
+\OCR (Optical Character Recognition) in PDF with PDF Extractor SDK
+\PDF SDK Samples with PDF SDK
+\Read barcode with barcode reader sdk
+\Read barcodes from image with barcode reader sdk
+\Read barcodes from pdf with barcode reader sdk
+\Read from live camera with barcode reader sdk
+\Split pdf by barcode with barcode reader sdk
+\ZUGFeRD Invoice Extraction with PDF Extractor SDK
+\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\Create PDF with PDF SDK\SampleFiles
+\Generate Barcode in ASP with BarCode SDK.NET MVC\Helpers
+\PDF SDK Samples with PDF SDK\SampleFiles
